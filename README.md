@@ -100,8 +100,8 @@ Development Tools
 
 ### **Clonar el Repositorio**
 ```bash
-git clone https://github.com/tu-usuario/elytech-dental.git
-cd elytech-dental
+git clone https://github.com/wildbergerlopezk.github.io
+cd dentalClinic
 ```
 
 ### **Instalar Dependencias**
@@ -143,8 +143,6 @@ Crear archivo `.env` en la raíz del proyecto:
 ```env
 # Configuración del Servidor
 PORT=3001
-NODE_ENV=development
-
 # Configuración de Email (Gmail)
 MAIL_USER=tu-email@gmail.com
 MAIL_PASS=tu-app-password
@@ -230,13 +228,6 @@ elytech-dental/
 │   ├── 📁 types/             # Definiciones TypeScript
 │   ├── 📁 middleware/        # Middlewares Express
 │   └── index.ts              # Punto de entrada
-│
-├── 📁 public/                # Frontend estático
-│   ├── index.html            # Página principal
-│   ├── styles.css            # Estilos CSS
-│   ├── script.js             # JavaScript frontend
-│   └── 📁 assets/            # Imágenes y recursos
-│
 ├── 📁 dist/                  # Código compilado (auto-generado)
 ├── 📁 docs/                  # Documentación
 ├── 📁 tests/                 # Tests unitarios
@@ -246,7 +237,6 @@ elytech-dental/
 ├── package.json             # Dependencias y scripts
 ├── tsconfig.json            # Configuración TypeScript
 ├── README.md                # Este archivo
-└── LICENSE                  # Licencia del proyecto
 ```
 
 ---
@@ -568,3 +558,7 @@ Hecho con ❤️ por Kevin Wildberger
 [⬆ Volver arriba](#-elytech-dental---clínica-dental-moderna)
 
 </div>
+<img width="1376" height="1014" alt="server" src="https://github.com/user-attachments/assets/e038c07d-a4da-4fe4-b25d-d1081ca6b66b" />
+<img width="1798" height="1736" alt="nodemailer" src="https://github.com/user-attachments/assets/a87f3ded-2ef8-442f-b0ba-ac8c4c4fa635" />
+<img width="1764" height="1584" alt="contact" src="https://github.com/user-attachments/assets/78e33273-9696-43e1-a895-c47d89ce0e99" />
+
